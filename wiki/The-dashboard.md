@@ -1,6 +1,6 @@
 Dashboard is your starting point. After login you will get on this page where you have a summary of your students and your lessons.
 
-![dashboard](/images/dash.png)
+![dashboard](/wiki/images/dash.png)
 
 Here you can manage your students (see how to [[Manage students]]) and you can check student's homepage (see [[Student's Homepage]]). 
 
