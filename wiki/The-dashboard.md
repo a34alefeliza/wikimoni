@@ -1,0 +1,1 @@
+On the dashboard you have a summary of your students and your lessons.

@@ -1,0 +1,3 @@
+[[Home]]
+[[Register]]
+[[The dashboard]]

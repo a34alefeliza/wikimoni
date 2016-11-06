@@ -1,0 +1,3 @@
+Register on Pikimoni and get your 30 days free trial. Familiarize with the platform, learn how to create collections, how to upload your contents, how to configure the pages. When ready you can try it for real, using it for your lessons. If you and your students like the experience, you can go on with a payment plan.
+
+During your trial period you will be free to use all functionalities on Pikimoni, expect for publishing on the Wall. This is restricted for the payment plan.
