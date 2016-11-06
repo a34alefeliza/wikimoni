@@ -2,6 +2,6 @@ Connecting a student means that all the activities on the platform will be visib
 
 In order to connect one or more students, go to the dashboard and tick the checkbox beside the student's names:
 
-!(Connections)[/wiki/images/connections.png]
+![Connections](/wiki/images/connections.png)
 
 **Note** you dont need to click the *Start lesson* button. You only need to tick the checkbox in order to connect a student and interact with him. You can start the lesson later or do not start a lesson, but still the student will be connected.
