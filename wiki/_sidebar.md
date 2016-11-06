@@ -1,3 +1,8 @@
 [[Home]]
 [[Register]]
 [[The dashboard]]
+[[Manage students]]
+[[Student's Homepage]]
+[[Connect a student]]
+[[Sidebar]]
+[[Start a new lesson]]
