@@ -43,8 +43,12 @@ Use this button to recors a sequence of actions. These actions can be played lat
 
 # Play
 
+![Play](/wiki/images/cp-play.png)
+
 Use this button to see a list of previously recorded actions and play them. See [[Play button]].
 
 # Show/Hide button
+
+![Show-Hide](/wiki/images/cp-hide.png)
 
 Use this button to hide and show the content of the page. This is useful when you want to check memory. See [[Show-Hide button]].
