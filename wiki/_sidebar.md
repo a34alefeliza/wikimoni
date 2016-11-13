@@ -6,3 +6,4 @@
 [[Connect a student]]
 [[Sidebar]]
 [[Start a new lesson]]
+[[The control panel]]
