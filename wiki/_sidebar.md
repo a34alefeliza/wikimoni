@@ -12,3 +12,4 @@
 [[Download collections]]
 [[Audio]]
 [[Size]]
+[[Show/Hide]]
