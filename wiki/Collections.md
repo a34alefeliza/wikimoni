@@ -1,4 +1,8 @@
-You get here clicking the collections button on the control panel.
+As we already said, collections are the core concept of pikimoni. They are used to define the elements that should be displayed on the page.
+
+You can manage collections by clicking the collections button on the control panel:
+
+![Collections](/wiki/images/cp-collections.png)
 
 This is where you can choose the collections of elements that you want to display on the page. Each page has got different kind of collections. At the moment we have Images, Audio and Text. Depending on the page, one or more collections might be needed.
 
