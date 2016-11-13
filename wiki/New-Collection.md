@@ -1,4 +1,4 @@
-To create a new collection click on the plus button for the needed collection's type.
+To create a new collection click the plus button on the box corresponding to a collection's type.
 
 ![New Collection](/wiki/images/newcoll.png)
 
@@ -11,3 +11,5 @@ Note: you can only pick up existing images. If you want to use your own images y
 Now you will see the new collection on the corresponding box. You need to tick the checkbox in order to display it on the page!
 
 ![Select collection](/wiki/images/selcoll.png)
+
+Now if you go back to the page you will see that your collection is being displayed.
