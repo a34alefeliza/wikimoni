@@ -7,3 +7,8 @@
 [[Sidebar]]
 [[Start a new lesson]]
 [[The control panel]]
+[[Collections]]
+[[New Collection]]
+[[Download an existing collection]]
+[[Audio]]
+[[Size]]
