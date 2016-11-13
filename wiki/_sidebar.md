@@ -12,4 +12,5 @@
 [[Download collections]]
 [[Audio]]
 [[Size]]
+[[Rec/Play]]
 [[Show/Hide]]
