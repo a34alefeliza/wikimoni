@@ -14,3 +14,5 @@
 [[Size]]
 [[Rec/Play]]
 [[Show/Hide]]
+[[Stickers]]
+[[The wall]]
