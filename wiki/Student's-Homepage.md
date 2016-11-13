@@ -2,7 +2,7 @@ You can access student's homepage clicking the arrow icon beside his name.
 
 ![Student's Homepage](/wiki/images/users.png)
 
-On the student's page you can see stickers collecter so far. Stickers are collected at the end of each lesson.
+On the student's page you can see the stickers collection. Stickers are collected at the end of each lesson.
 
 ![Stickers](/wiki/images/stickers.png)
 
