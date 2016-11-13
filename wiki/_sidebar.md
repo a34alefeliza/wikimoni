@@ -9,6 +9,6 @@
 [[The control panel]]
 [[Collections]]
 [[New Collection]]
-[[Download an existing collection]]
+[[Download collections]]
 [[Audio]]
 [[Size]]
