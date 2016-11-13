@@ -1,5 +1,3 @@
-Welcome to Pikimoni!
-
 Pikimoni is an interactive whiteboard that makes learning process easy and funny. Teacher and student share the same page and the same contents, and all the activities that take place on the page are visible on both computers.
 
 Pikimoni it's an online platform, cloud based. All you need is a computer or tablet and an Internet access. Whether you are at home, on class or in holyday, your contents will be available on the cloud. Pikimoni can be used for online lessons with Skype, or in class. You don't need expensive IBW, all you need it's a computer or a tablet!
