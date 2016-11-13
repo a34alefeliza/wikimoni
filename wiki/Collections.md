@@ -4,11 +4,7 @@ You can manage collections by clicking the collections button on the control pan
 
 ![Collections](/wiki/images/cp-collections.png)
 
-This is where you can choose the collections of elements that you want to display on the page. Each page has got different kind of collections. At the moment we have Images, Audio and Text. Depending on the page, one or more collections might be needed.
-
-![Collections](/wiki/images/collections.png)
-
-You can create new collections or download existing collections from the cloud. See how to create a [[New Collection]] or how to [[Download an existing collection]].
+Different kind of collections are available. At the moment we have Images, Audio and Text. Depending on the page, one or more collections is needed.
 
 # Collection's types
 
@@ -17,6 +13,8 @@ At the moment the colelction's types are:
 * Images 2
 * Audio
 * Text
+
+![Collections](/wiki/images/collections.png)
 
 Each page needs specific types of collections, depending on the exercice. Some exercices need only one image's collection. In Jobs for example you only have to display one collection and the student must pick up one image.
 
