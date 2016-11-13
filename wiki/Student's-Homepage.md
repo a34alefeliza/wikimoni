@@ -1,4 +1,4 @@
-You can access student's homepage ny clicking the arrow icon beside his name.
+You can access student's homepage clicking the arrow icon beside his name.
 
 ![Student's Homepage](/wiki/images/users.png)
 
