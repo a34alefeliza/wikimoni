@@ -21,7 +21,7 @@ authentication:
     clientSecret: replace me with the real value
     redirectURL: ''
   github:
-    enabled: true
+    enabled: false
     clientId: '72bbc21e715305062a5f'
     clientSecret: 'a7f5a03da615e679c19fec7124cb5aa97d4a21b9'
     redirectURL: ''
@@ -34,11 +34,11 @@ authentication:
     searchFilter: '(uid={{username}})'
     searchAttributes: ''
   local:
-    enabled: false
+    enabled: true
     accounts:
-      - username: ''
-        passwordHash: ''
-        email: ''
+      - username: 'admin'
+        passwordHash: 'eaac10e71fc3079da4d4910054dafde699d6338e'
+        email: 'alessandro.feliziani@gmail.com'
 features:
   markitup: false
   codemirror: true
