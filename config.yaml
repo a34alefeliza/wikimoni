@@ -43,8 +43,8 @@ features:
   markitup: false
   codemirror: true
 server:
-  hostname: localhost
-  port: 6067
+  hostname: support.pikimoni.net
+  port: 80
   localOnly: false
   baseUrl: ''
   CORS:
