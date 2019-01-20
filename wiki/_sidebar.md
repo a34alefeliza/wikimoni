@@ -1,18 +1,18 @@
 [Home](Home)
-[[Register]]
-[[The dashboard]]
-[[Manage students]]
-[[Student's Homepage]]
-[[Connect a student]]
-[[Sidebar]]
-[[Start a new lesson]]
-[[The control panel]]
-[[Collections]]
-[[New Collection]]
-[[Download collections]]
-[[Audio]]
-[[Size]]
-[[Rec/Play]]
-[[Show/Hide]]
-[[Stickers]]
-[[The wall]]
+[Register](Register)
+[The dashboard](The dashboard)
+[Manage students](Manage students)
+[Student's Homepage](Student's Homepage)
+[Connect a student](Connect a student)
+[Sidebar](Sidebar)
+[Start a new lesson](Start a new lesson)
+[The control panel](The control panel)
+[Collections](Collections)
+[New Collection](New Collection)
+[Download collections](Download collections)
+[Audio](Audio)
+[Size](Size)
+[Rec/Play](Rec/Play)
+[Show/Hide](SHow/Hide)
+[Stickers](Strickers)
+[The wall](The wall)
