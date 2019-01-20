@@ -1,8 +1,8 @@
 ---
 # Configuration sample file for Jingo (YAML)
 application:
-  title: Pikimoni
-  repository: 'C:\Users\a34alefeliza\git\pikimoni-wiki'
+  title: Pikimoni Help Center
+  repository: 'C:\Users\a34alefeliza\git\jingo\wikimoni'
   docSubdir: 'wiki'
   remote: 'origin'
   pushInterval: 30
@@ -22,8 +22,8 @@ authentication:
     redirectURL: ''
   github:
     enabled: true
-    clientId: '6d25ed1c8582615d29b7'
-    clientSecret: 'ad76330dca79c5dd490ad18f49e34e3e097353c7'
+    clientId: '72bbc21e715305062a5f'
+    clientSecret: 'a7f5a03da615e679c19fec7124cb5aa97d4a21b9'
     redirectURL: ''
   ldap:
     enabled: false
