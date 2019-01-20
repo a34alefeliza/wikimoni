@@ -1,4 +1,4 @@
-[[Home]]
+[Home]
 [[Register]]
 [[The dashboard]]
 [[Manage students]]
