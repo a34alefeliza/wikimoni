@@ -63,7 +63,7 @@ pages:
     lowercase: false
   itemsPerPage: 10
 customizations:
-  sidebar: _Sidebar
+  sidebar: _sidebar.md
   footer: _footer.md
   style: _style.css
   script: _script.js
