@@ -2,7 +2,7 @@
 # Configuration sample file for Jingo (YAML)
 application:
   title: Pikimoni Help Center
-  repository: 'C:\Users\a34alefeliza\git\jingo\wikimoni'
+  repository: '/wikimoni'
   docSubdir: 'wiki'
   remote: 'origin'
   pushInterval: 30
