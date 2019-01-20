@@ -4,7 +4,7 @@ application:
   title: Pikimoni Help Center
   repository: '/wikimoni'
   docSubdir: 'wiki'
-  remote: 'origin'
+  #remote: 'origin'
   pushInterval: 30
   secret: 'Ottobre2015'
   git: git
